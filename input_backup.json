@@ -1,0 +1,918 @@
+[
+    {
+        "title": "Introduction",
+        "pages": [
+            {
+                "title": "Introduction to Modern System Design",
+                "slug": "introduction-to-modern-system-design"
+            },
+            {
+                "title": "Course Structure for Modern System Design",
+                "slug": "course-structure-for-modern-system-design"
+            }
+        ]
+    },
+    {
+        "title": "System Design Interviews",
+        "pages": [
+            {
+                "title": "What Is a System Design Interview",
+                "slug": "what-is-a-system-design-interview"
+            },
+            {
+                "title": "How to Prepare for Success",
+                "slug": "how-to-prepare-for-success"
+            },
+            {
+                "title": "How to Perform Well",
+                "slug": "how-to-perform-well"
+            },
+            {
+                "title": "Let AI Evaluate your System Design Interview Preparation",
+                "slug": "let-ai-evaluate-your-system-design-interview-preparation"
+            }
+        ]
+    },
+    {
+        "title": "Abstractions",
+        "pages": [
+            {
+                "title": "Why Are Abstractions Important",
+                "slug": "why-are-abstractions-important"
+            },
+            {
+                "title": "Network Abstractions_Remote Procedure Calls",
+                "slug": "network-abstractions-remote-procedure-calls"
+            },
+            {
+                "title": "Spectrum of Consistency Models",
+                "slug": "spectrum-of-consistency-models"
+            },
+            {
+                "title": "The Spectrum of Failure Models",
+                "slug": "the-spectrum-of-failure-models"
+            }
+        ]
+    },
+    {
+        "title": "Non-functional System Characteristics",
+        "pages": [
+            {
+                "title": "Availability",
+                "slug": "availability"
+            },
+            {
+                "title": "Reliability",
+                "slug": "reliability"
+            },
+            {
+                "title": "Scalability",
+                "slug": "scalability"
+            },
+            {
+                "title": "Maintainability",
+                "slug": "maintainability"
+            },
+            {
+                "title": "Fault Tolerance",
+                "slug": "fault-tolerance"
+            },
+            {
+                "title": "Let AI Evaluate Your Understanding of Non-Functional Requirements",
+                "slug": "let-ai-evaluate-your-understanding-of-non-functional-requirements"
+            }
+        ]
+    },
+    {
+        "title": "Back-of-the-envelope Calculations",
+        "pages": [
+            {
+                "title": "Put Back-of-the-envelope Numbers in Perspective",
+                "slug": "put-back-of-the-envelope-numbers-in-perspective"
+            },
+            {
+                "title": "Examples of Resource Estimation",
+                "slug": "examples-of-resource-estimation"
+            }
+        ]
+    },
+    {
+        "title": "Building Blocks",
+        "pages": [
+            {
+                "title": "Introduction to Building Blocks for Modern System Design",
+                "slug": "introduction-to-building-blocks-for-modern-system-design"
+            }
+        ]
+    },
+    {
+        "title": "Domain Name System",
+        "pages": [
+            {
+                "title": "Introduction to Domain Name System (DNS)",
+                "slug": "introduction-to-domain-name-system-dns"
+            },
+            {
+                "title": "How the Domain Name System Works",
+                "slug": "how-the-domain-name-system-works"
+            }
+        ]
+    },
+    {
+        "title": "Load Balancers",
+        "pages": [
+            {
+                "title": "Introduction to Load Balancers",
+                "slug": "introduction-to-load-balancers"
+            },
+            {
+                "title": "Global and Local Load Balancing",
+                "slug": "global-and-local-load-balancing"
+            },
+            {
+                "title": "Advanced Details of Load Balancers",
+                "slug": "advanced-details-of-load-balancers"
+            }
+        ]
+    },
+    {
+        "title": "Databases",
+        "pages": [
+            {
+                "title": "Introduction to Databases",
+                "slug": "introduction-to-databases"
+            },
+            {
+                "title": "Types of Databases",
+                "slug": "types-of-databases"
+            },
+            {
+                "title": "Data Replication",
+                "slug": "data-replication"
+            },
+            {
+                "title": "Data Partitioning",
+                "slug": "data-partitioning"
+            },
+            {
+                "title": "Trade-offs in Databases",
+                "slug": "trade-offs-in-databases"
+            }
+        ]
+    },
+    {
+        "title": "Key-value Store",
+        "pages": [
+            {
+                "title": "System Design_The Key-value Store",
+                "slug": "system-design-the-key-value-store"
+            },
+            {
+                "title": "Design of a Key-value Store",
+                "slug": "design-of-a-key-value-store"
+            },
+            {
+                "title": "Ensure Scalability and Replication",
+                "slug": "ensure-scalability-and-replication"
+            },
+            {
+                "title": "Versioning Data and Achieving Configurability",
+                "slug": "versioning-data-and-achieving-configurability"
+            },
+            {
+                "title": "Enable Fault Tolerance and Failure Detection",
+                "slug": "enable-fault-tolerance-and-failure-detection"
+            }
+        ]
+    },
+    {
+        "title": "Content Delivery Network  (CDN)",
+        "pages": [
+            {
+                "title": "System Design_The Content Delivery Network (CDN)",
+                "slug": "system-design-the-content-delivery-network-cdn"
+            },
+            {
+                "title": "Introduction to a CDN",
+                "slug": "introduction-to-a-cdn"
+            },
+            {
+                "title": "Design of a CDN",
+                "slug": "design-of-a-cdn"
+            },
+            {
+                "title": "In-depth Investigation of CDN_Part 1",
+                "slug": "in-depth-investigation-of-cdn-part-1"
+            },
+            {
+                "title": "In-depth Investigation of CDN_Part 2",
+                "slug": "in-depth-investigation-of-cdn-part-2"
+            },
+            {
+                "title": "Evaluation of CDN's Design",
+                "slug": "evaluation-of-cdns-design"
+            },
+            {
+                "title": "Quiz on CDN's Design",
+                "slug": "quiz-on-cdns-design"
+            }
+        ]
+    },
+    {
+        "title": "Sequencer",
+        "pages": [
+            {
+                "title": "System Design_Sequencer",
+                "slug": "system-design-sequencer"
+            },
+            {
+                "title": "Design of a Unique ID Generator",
+                "slug": "design-of-a-unique-id-generator"
+            },
+            {
+                "title": "Unique IDs with Causality",
+                "slug": "unique-ids-with-causality"
+            }
+        ]
+    },
+    {
+        "title": "Distributed  Monitoring",
+        "pages": [
+            {
+                "title": "System Design_Distributed Monitoring",
+                "slug": "system-design-distributed-monitoring"
+            },
+            {
+                "title": "Introduction to Distributed Monitoring",
+                "slug": "introduction-to-distributed-monitoring"
+            },
+            {
+                "title": "Prerequisites of a Monitoring System",
+                "slug": "prerequisites-of-a-monitoring-system"
+            }
+        ]
+    },
+    {
+        "title": "Monitor Server-side Errors",
+        "pages": [
+            {
+                "title": "Design of a Monitoring System",
+                "slug": "design-of-a-monitoring-system"
+            },
+            {
+                "title": "Detailed Design of a Monitoring System",
+                "slug": "detailed-design-of-a-monitoring-system"
+            },
+            {
+                "title": "Visualize Data in a Monitoring System",
+                "slug": "visualize-data-in-a-monitoring-system"
+            }
+        ]
+    },
+    {
+        "title": "Monitor Client-side Errors",
+        "pages": [
+            {
+                "title": "Focus on Client-side Errors in a Monitoring System",
+                "slug": "focus-on-client-side-errors-in-a-monitoring-system"
+            },
+            {
+                "title": "Design of a Client-side Monitoring System",
+                "slug": "design-of-a-client-side-monitoring-system"
+            }
+        ]
+    },
+    {
+        "title": "Distributed Cache",
+        "pages": [
+            {
+                "title": "System Design_The Distributed Cache",
+                "slug": "system-design-the-distributed-cache"
+            },
+            {
+                "title": "Background of Distributed Cache",
+                "slug": "background-of-distributed-cache"
+            },
+            {
+                "title": "High-level Design of a Distributed Cache",
+                "slug": "high-level-design-of-a-distributed-cache"
+            },
+            {
+                "title": "Detailed Design of a Distributed Cache",
+                "slug": "detailed-design-of-a-distributed-cache"
+            },
+            {
+                "title": "Evaluation of a Distributed Cache's Design",
+                "slug": "evaluation-of-a-distributed-caches-design"
+            },
+            {
+                "title": "Memcached versus Redis",
+                "slug": "memcached-versus-redis"
+            }
+        ]
+    },
+    {
+        "title": "Distributed Messaging Queue",
+        "pages": [
+            {
+                "title": "System Design_The Distributed Messaging Queue",
+                "slug": "system-design-the-distributed-messaging-queue"
+            },
+            {
+                "title": "Requirements of a Distributed Messaging Queue\u2019s Design",
+                "slug": "requirements-of-a-distributed-messaging-queues-design"
+            },
+            {
+                "title": "Considerations of a Distributed Messaging Queue\u2019s Design",
+                "slug": "considerations-of-a-distributed-messaging-queues-design"
+            },
+            {
+                "title": "Design of a Distributed Messaging Queue_Part 1",
+                "slug": "design-of-a-distributed-messaging-queue-part-1"
+            },
+            {
+                "title": "Design of a Distributed Messaging Queue_Part 2",
+                "slug": "design-of-a-distributed-messaging-queue-part-2"
+            },
+            {
+                "title": "Evaluation of a Distributed Messaging Queue\u2019s Design",
+                "slug": "evaluation-of-a-distributed-messaging-queues-design"
+            },
+            {
+                "title": "Quiz on the Distributed Messaging Queue\u2019s Design",
+                "slug": "quiz-on-the-distributed-messaging-queues-design"
+            }
+        ]
+    },
+    {
+        "title": "Pub-sub",
+        "pages": [
+            {
+                "title": "System Design_The Pub-sub Abstraction",
+                "slug": "system-design-the-pub-sub-abstraction"
+            },
+            {
+                "title": "Introduction to Pub-sub",
+                "slug": "introduction-to-pub-sub"
+            },
+            {
+                "title": "Design of a Pub-sub System",
+                "slug": "design-of-a-pub-sub-system"
+            }
+        ]
+    },
+    {
+        "title": "Rate Limiter",
+        "pages": [
+            {
+                "title": "System Design_The Rate Limiter",
+                "slug": "system-design-the-rate-limiter"
+            },
+            {
+                "title": "Requirements of a Rate Limiter\u2019s Design",
+                "slug": "requirements-of-a-rate-limiters-design"
+            },
+            {
+                "title": "Design of a Rate Limiter",
+                "slug": "design-of-a-rate-limiter"
+            },
+            {
+                "title": "Rate Limiter Algorithms",
+                "slug": "rate-limiter-algorithms"
+            },
+            {
+                "title": "Quiz on the Rate Limiter\u2019s Design",
+                "slug": "quiz-on-the-rate-limiters-design"
+            }
+        ]
+    },
+    {
+        "title": "Blob Store",
+        "pages": [
+            {
+                "title": "System Design_A Blob Store",
+                "slug": "system-design-a-blob-store"
+            },
+            {
+                "title": "Requirements of a Blob Store's Design",
+                "slug": "requirements-of-a-blob-stores-design"
+            },
+            {
+                "title": "Design of a Blob Store",
+                "slug": "design-of-a-blob-store"
+            },
+            {
+                "title": "Design Considerations of a Blob Store",
+                "slug": "design-considerations-of-a-blob-store"
+            },
+            {
+                "title": "Evaluation of a Blob Store's Design",
+                "slug": "evaluation-of-a-blob-stores-design"
+            },
+            {
+                "title": "Quiz on the Blob Store's Design",
+                "slug": "quiz-on-the-blob-stores-design"
+            }
+        ]
+    },
+    {
+        "title": "Distributed Search",
+        "pages": [
+            {
+                "title": "System Design_The Distributed Search",
+                "slug": "system-design-the-distributed-search"
+            },
+            {
+                "title": "Requirements of a Distributed Search System's Design",
+                "slug": "requirements-of-a-distributed-search-systems-design"
+            },
+            {
+                "title": "Indexing in a Distributed Search",
+                "slug": "indexing-in-a-distributed-search"
+            },
+            {
+                "title": "Design of a Distributed Search",
+                "slug": "design-of-a-distributed-search"
+            },
+            {
+                "title": "Scaling Search and Indexing",
+                "slug": "scaling-search-and-indexing"
+            },
+            {
+                "title": "Evaluation of a Distributed Search's Design",
+                "slug": "evaluation-of-a-distributed-searchs-design"
+            }
+        ]
+    },
+    {
+        "title": "Distributed Logging",
+        "pages": [
+            {
+                "title": "System Design_Distributed Logging",
+                "slug": "system-design-distributed-logging"
+            },
+            {
+                "title": "Introduction to Distributed Logging",
+                "slug": "introduction-to-distributed-logging"
+            },
+            {
+                "title": "Design of a Distributed Logging Service",
+                "slug": "design-of-a-distributed-logging-service"
+            }
+        ]
+    },
+    {
+        "title": "Distributed Task Scheduler",
+        "pages": [
+            {
+                "title": "System Design_The Distributed Task Scheduler",
+                "slug": "system-design-the-distributed-task-scheduler"
+            },
+            {
+                "title": "Requirements of a Distributed Task Scheduler's Design",
+                "slug": "requirements-of-a-distributed-task-schedulers-design"
+            },
+            {
+                "title": "Design of a Distributed Task Scheduler",
+                "slug": "design-of-a-distributed-task-scheduler"
+            },
+            {
+                "title": "Design Considerations of a Distributed Task Scheduler",
+                "slug": "design-considerations-of-a-distributed-task-scheduler"
+            },
+            {
+                "title": "Evaluation of a Distributed Task Scheduler's Design",
+                "slug": "evaluation-of-a-distributed-task-schedulers-design"
+            }
+        ]
+    },
+    {
+        "title": "Sharded Counters",
+        "pages": [
+            {
+                "title": "System Design_The Sharded Counters",
+                "slug": "system-design-the-sharded-counters"
+            },
+            {
+                "title": "High-level Design of Sharded Counters",
+                "slug": "high-level-design-of-sharded-counters"
+            },
+            {
+                "title": "Detailed Design of Sharded Counters",
+                "slug": "detailed-design-of-sharded-counters"
+            },
+            {
+                "title": "Quiz on the Sharded Counters' Design",
+                "slug": "quiz-on-the-sharded-counters-design"
+            }
+        ]
+    },
+    {
+        "title": "Concluding the Building Blocks Discussion",
+        "pages": [
+            {
+                "title": "AI Evaluation of Building Blocks in E-Commerce Platform",
+                "slug": "ai-evaluation-of-building-blocks-in-e-commerce-platform"
+            },
+            {
+                "title": "AI Evaluation of Building Blocks in Online Education System",
+                "slug": "ai-evaluation-of-building-blocks-in-online-education-system"
+            },
+            {
+                "title": "Wrapping Up the Building Blocks Discussion",
+                "slug": "wrapping-up-the-building-blocks-discussion"
+            },
+            {
+                "title": "The RESHADED Approach for System Design",
+                "slug": "the-reshaded-approach-for-system-design"
+            }
+        ]
+    },
+    {
+        "title": "Design YouTube",
+        "pages": [
+            {
+                "title": "System Design_YouTube",
+                "slug": "system-design-youtube"
+            },
+            {
+                "title": "Requirements of YouTube's Design",
+                "slug": "requirements-of-youtubes-design"
+            },
+            {
+                "title": "Design of YouTube",
+                "slug": "design-of-youtube"
+            },
+            {
+                "title": "Evaluation of YouTube's Design",
+                "slug": "evaluation-of-youtubes-design"
+            },
+            {
+                "title": "The Reality Is More Complicated",
+                "slug": "the-reality-is-more-complicated"
+            },
+            {
+                "title": "Quiz on Netflix's Design",
+                "slug": "quiz-on-netflixs-design"
+            }
+        ]
+    },
+    {
+        "title": "Design Quora",
+        "pages": [
+            {
+                "title": "System Design_Quora",
+                "slug": "system-design-quora"
+            },
+            {
+                "title": "Requirements of Quora's Design",
+                "slug": "requirements-of-quoras-design"
+            },
+            {
+                "title": "Initial Design of Quora",
+                "slug": "initial-design-of-quora"
+            },
+            {
+                "title": "Final Design of Quora",
+                "slug": "final-design-of-quora"
+            },
+            {
+                "title": "Evaluation of Quora\u2019s Design",
+                "slug": "evaluation-of-quoras-design"
+            }
+        ]
+    },
+    {
+        "title": "Design Google Maps",
+        "pages": [
+            {
+                "title": "System Design_Google Maps",
+                "slug": "system-design-google-maps"
+            },
+            {
+                "title": "Requirements of Google Maps' Design",
+                "slug": "requirements-of-google-maps-design"
+            },
+            {
+                "title": "Design of Google Maps",
+                "slug": "design-of-google-maps"
+            },
+            {
+                "title": "Challenges of Google Maps' Design",
+                "slug": "challenges-of-google-maps-design"
+            },
+            {
+                "title": "Detailed Design of Google Maps",
+                "slug": "detailed-design-of-google-maps"
+            },
+            {
+                "title": "Evaluation of Google Maps' Design",
+                "slug": "evaluation-of-google-maps-design"
+            }
+        ]
+    },
+    {
+        "title": "Design a Proximity Service_Yelp",
+        "pages": [
+            {
+                "title": "System Design_Yelp",
+                "slug": "system-design-yelp"
+            },
+            {
+                "title": "Requirements of Yelp\u2019s Design",
+                "slug": "requirements-of-yelps-design"
+            },
+            {
+                "title": "Design of Yelp",
+                "slug": "design-of-yelp"
+            },
+            {
+                "title": "Design Considerations of Yelp",
+                "slug": "design-considerations-of-yelp"
+            },
+            {
+                "title": "Quiz on Yelp's Design",
+                "slug": "quiz-on-yelps-design"
+            }
+        ]
+    },
+    {
+        "title": "Design Uber",
+        "pages": [
+            {
+                "title": "System Design_Uber",
+                "slug": "system-design-uber"
+            },
+            {
+                "title": "Requirements of Uber\u2019s Design",
+                "slug": "requirements-of-ubers-design"
+            },
+            {
+                "title": "High-level Design of Uber",
+                "slug": "high-level-design-of-uber"
+            },
+            {
+                "title": "Detailed Design of Uber",
+                "slug": "detailed-design-of-uber"
+            },
+            {
+                "title": "Payment Service and Fraud Detection in Uber Design",
+                "slug": "payment-service-and-fraud-detection-in-uber-design"
+            },
+            {
+                "title": "Evaluation of Uber\u2019s Design",
+                "slug": "evaluation-of-ubers-design"
+            },
+            {
+                "title": "Quiz on Uber's Design",
+                "slug": "quiz-on-ubers-design"
+            }
+        ]
+    },
+    {
+        "title": "Design Twitter",
+        "pages": [
+            {
+                "title": "System Design_Twitter",
+                "slug": "system-design-twitter"
+            },
+            {
+                "title": "Requirements of Twitter\u2019s Design",
+                "slug": "requirements-of-twitters-design"
+            },
+            {
+                "title": "High-level Design of Twitter",
+                "slug": "high-level-design-of-twitter"
+            },
+            {
+                "title": "Detailed Design of Twitter",
+                "slug": "detailed-design-of-twitter"
+            },
+            {
+                "title": "Client-side Load Balancer for Twitter",
+                "slug": "client-side-load-balancer-for-twitter"
+            },
+            {
+                "title": "Quiz on Twitter's Design",
+                "slug": "quiz-on-twitters-design"
+            }
+        ]
+    },
+    {
+        "title": "Design Newsfeed System",
+        "pages": [
+            {
+                "title": "System Design_Newsfeed System",
+                "slug": "system-design-newsfeed-system"
+            },
+            {
+                "title": "Requirements of a Newsfeed System\u2019s Design",
+                "slug": "requirements-of-a-newsfeed-systems-design"
+            },
+            {
+                "title": "Design of a Newsfeed System",
+                "slug": "design-of-a-newsfeed-system"
+            },
+            {
+                "title": "Evaluation of a Newsfeed System\u2019s Design",
+                "slug": "evaluation-of-a-newsfeed-systems-design"
+            }
+        ]
+    },
+    {
+        "title": "Design Instagram",
+        "pages": [
+            {
+                "title": "System Design_Instagram",
+                "slug": "system-design-instagram"
+            },
+            {
+                "title": "Requirements of Instagram\u2019s Design",
+                "slug": "requirements-of-instagrams-design"
+            },
+            {
+                "title": "Design of Instagram",
+                "slug": "design-of-instagram"
+            },
+            {
+                "title": "Detailed Design of Instagram",
+                "slug": "detailed-design-of-instagram"
+            },
+            {
+                "title": "Quiz on Instagram\u2019s Design",
+                "slug": "quiz-on-instagrams-design"
+            }
+        ]
+    },
+    {
+        "title": "Design a URL Shortening Service_TinyURL",
+        "pages": [
+            {
+                "title": "System Design_TinyURL",
+                "slug": "system-design-tinyurl"
+            },
+            {
+                "title": "Requirements of TinyURL's Design",
+                "slug": "requirements-of-tinyurls-design"
+            },
+            {
+                "title": "Design and Deployment of TinyURL",
+                "slug": "design-and-deployment-of-tinyurl"
+            },
+            {
+                "title": "Encoder for TinyURL",
+                "slug": "encoder-for-tinyurl"
+            },
+            {
+                "title": "Evaluation of TinyURL's Design",
+                "slug": "evaluation-of-tinyurls-design"
+            },
+            {
+                "title": "Quiz on TinyURL's Design",
+                "slug": "quiz-on-tinyurls-design"
+            }
+        ]
+    },
+    {
+        "title": "Design a Web Crawler",
+        "pages": [
+            {
+                "title": "System Design_Web Crawler",
+                "slug": "system-design-web-crawler"
+            },
+            {
+                "title": "Requirements of a Web Crawler's Design",
+                "slug": "requirements-of-a-web-crawlers-design"
+            },
+            {
+                "title": "Design of a Web Crawler",
+                "slug": "design-of-a-web-crawler"
+            },
+            {
+                "title": "Design Improvements of a Web Crawler",
+                "slug": "design-improvements-of-a-web-crawler"
+            },
+            {
+                "title": "Evaluation of  Web Crawler's Design",
+                "slug": "evaluation-of-web-crawlers-design"
+            }
+        ]
+    },
+    {
+        "title": "Design WhatsApp",
+        "pages": [
+            {
+                "title": "System Design_WhatsApp",
+                "slug": "system-design-whatsapp"
+            },
+            {
+                "title": "Requirements of WhatsApp\u2019s Design",
+                "slug": "requirements-of-whatsapps-design"
+            },
+            {
+                "title": "High-level Design of WhatsApp",
+                "slug": "high-level-design-of-whatsapp"
+            },
+            {
+                "title": "Detailed Design of WhatsApp",
+                "slug": "detailed-design-of-whatsapp"
+            },
+            {
+                "title": "Evaluation of WhatsApp\u2019s Design",
+                "slug": "evaluation-of-whatsapps-design"
+            },
+            {
+                "title": "Quiz on WhatsApp\u2019s Design",
+                "slug": "quiz-on-whatsapps-design"
+            }
+        ]
+    },
+    {
+        "title": "Design Typeahead Suggestion",
+        "pages": [
+            {
+                "title": "System Design_The Typeahead Suggestion System",
+                "slug": "system-design-the-typeahead-suggestion-system"
+            },
+            {
+                "title": "Requirements of the Typeahead Suggestion System\u2019s Design",
+                "slug": "requirements-of-the-typeahead-suggestion-systems-design"
+            },
+            {
+                "title": "High-level Design of the Typeahead Suggestion System",
+                "slug": "high-level-design-of-the-typeahead-suggestion-system"
+            },
+            {
+                "title": "Data Structure for Storing Prefixes",
+                "slug": "data-structure-for-storing-prefixes"
+            },
+            {
+                "title": "Detailed Design of the Typeahead Suggestion System",
+                "slug": "detailed-design-of-the-typeahead-suggestion-system"
+            },
+            {
+                "title": "Evaluation of the Typeahead Suggestion System\u2019s Design",
+                "slug": "evaluation-of-the-typeahead-suggestion-systems-design"
+            },
+            {
+                "title": "Quiz on the Typeahead Suggestion System\u2019s Design",
+                "slug": "quiz-on-the-typeahead-suggestion-systems-design"
+            }
+        ]
+    },
+    {
+        "title": "Design a Collaborative Document Editing Service_Google Docs",
+        "pages": [
+            {
+                "title": "System Design_Google Docs",
+                "slug": "system-design-google-docs"
+            },
+            {
+                "title": "Requirements of Google Docs\u2019 Design",
+                "slug": "requirements-of-google-docs-design"
+            },
+            {
+                "title": "Design of Google Docs",
+                "slug": "design-of-google-docs"
+            },
+            {
+                "title": "Concurrency in Collaborative Editing",
+                "slug": "concurrency-in-collaborative-editing"
+            },
+            {
+                "title": "Evaluation of Google Docs\u2019 Design",
+                "slug": "evaluation-of-google-docs-design"
+            }
+        ]
+    },
+    {
+        "title": "Spectacular Failures",
+        "pages": [
+            {
+                "title": "Introduction to Distributed System Failures",
+                "slug": "introduction-to-distributed-system-failures"
+            },
+            {
+                "title": "Facebook, WhatsApp, Instagram, Oculus Outage",
+                "slug": "facebook-whatsapp-instagram-oculus-outage"
+            },
+            {
+                "title": "AWS Kinesis Outage Affecting Many Organizations",
+                "slug": "aws-kinesis-outage-affecting-many-organizations"
+            },
+            {
+                "title": "AWS Wide Spread Outage",
+                "slug": "aws-wide-spread-outage"
+            }
+        ]
+    },
+    {
+        "title": "Concluding Remarks",
+        "pages": [
+            {
+                "title": "Conclusions",
+                "slug": "conclusions"
+            }
+        ]
+    }
+]
